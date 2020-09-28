@@ -21,7 +21,6 @@ print('<div class="container"><hr><div class="heading"><p>Output</p></div><hr>')
 
 import sys
 import cgi
-import webbrowser as browser
 import subprocess as sp
 import platform
 
